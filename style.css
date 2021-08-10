@@ -11,6 +11,11 @@
 #crews {
   background-color: #c0f0f3da;
 }
+
+.carousel-caption {
+  margin-top: 5rem;
+}
+
 .frame {
   width: 90%;
   margin: 40px auto;
