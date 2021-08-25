@@ -7,9 +7,18 @@
 #projects {
   background-color: #e2edff;
 }
+#gallery {
+  background-color: #137fb1;
+}
+.gallery-img {
+  width: 100%;
+}
 
+#gallery .row > * {
+  padding: 0;
+}
 #crews {
-  background-color: #c0f0f3da;
+  background-color: #fff;
 }
 
 .carousel-caption {
